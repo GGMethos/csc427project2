@@ -1,2 +1,2 @@
-# csc427project2
-3d game
+# Deadly Sky Masters
+a multiplayer 3d pilot game made with XNA
