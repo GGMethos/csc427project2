@@ -8,7 +8,7 @@
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb</Output>
-      <Time>2015-04-13T20:55:18.7983959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6521149-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\Series4Effects.fx</Source>
@@ -17,7 +17,7 @@
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\Series4Effects.xnb</Output>
-      <Time>2015-04-13T20:55:20.8263959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6921172-04:00</Time>
     </Item>
     <Item>
       <Source>particle\ParticleEffect.fx</Source>
@@ -26,7 +26,7 @@
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\ParticleEffect.xnb</Output>
-      <Time>2015-04-13T20:55:18.8763959-04:00</Time>
+      <Time>2015-04-14T00:25:29.653115-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\bbEffect.fx</Source>
@@ -35,7 +35,7 @@
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\bbEffect.xnb</Output>
-      <Time>2015-04-13T20:55:18.8607959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6921172-04:00</Time>
     </Item>
     <Item>
       <Source>particle\bullet.jpg</Source>
@@ -44,7 +44,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\bullet.xnb</Output>
-      <Time>2015-04-13T20:55:18.8139959-04:00</Time>
+      <Time>2015-04-14T00:25:29.653115-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\grass.dds</Source>
@@ -53,7 +53,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\grass.xnb</Output>
-      <Time>2015-04-13T20:55:19.1883959-04:00</Time>
+      <Time>2015-04-14T00:25:29.7041179-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\rock.dds</Source>
@@ -62,7 +62,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\rock.xnb</Output>
-      <Time>2015-04-13T20:55:20.0931959-04:00</Time>
+      <Time>2015-04-14T00:25:29.7161186-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\sand.dds</Source>
@@ -71,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\sand.xnb</Output>
-      <Time>2015-04-13T20:55:20.6079959-04:00</Time>
+      <Time>2015-04-14T00:25:29.7271192-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\snow.dds</Source>
@@ -80,7 +80,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\snow.xnb</Output>
-      <Time>2015-04-13T20:55:20.8575959-04:00</Time>
+      <Time>2015-04-14T00:25:29.7331195-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\tree.dds</Source>
@@ -89,7 +89,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\tree.xnb</Output>
-      <Time>2015-04-13T20:55:21.0759959-04:00</Time>
+      <Time>2015-04-14T00:25:29.7351197-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\waterbump.dds</Source>
@@ -98,7 +98,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\waterbump.xnb</Output>
-      <Time>2015-04-13T20:55:19.1103959-04:00</Time>
+      <Time>2015-04-14T00:25:29.7381198-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\cloudMap.jpg</Source>
@@ -107,7 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap.xnb</Output>
-      <Time>2015-04-13T20:55:18.8919959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6921172-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\treeMap.jpg</Source>
@@ -116,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\treeMap.xnb</Output>
-      <Time>2015-04-13T20:55:19.0479959-04:00</Time>
+      <Time>2015-04-14T00:25:29.7361197-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\heightmap2.bmp</Source>
@@ -125,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\heightmap2.xnb</Output>
-      <Time>2015-04-13T20:55:19.4379959-04:00</Time>
+      <Time>2015-04-14T00:25:29.7051179-04:00</Time>
     </Item>
     <Item>
       <Source>particle\explosion.png</Source>
@@ -134,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\explosion.xnb</Output>
-      <Time>2015-04-13T20:55:18.8451959-04:00</Time>
+      <Time>2015-04-14T00:25:29.654115-04:00</Time>
     </Item>
     <Item>
       <Source>particle\smoke.png</Source>
@@ -143,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\smoke.xnb</Output>
-      <Time>2015-04-13T20:55:18.9699959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6551151-04:00</Time>
     </Item>
     <Item>
       <Source>background.png</Source>
@@ -152,7 +152,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2015-04-13T21:28:22.9876099-04:00</Time>
+      <Time>2015-04-14T00:25:29.6521149-04:00</Time>
     </Item>
     <Item>
       <Source>Font.spritefont</Source>
@@ -161,7 +161,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb</Output>
-      <Time>2015-04-13T20:55:18.8139959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6521149-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\dome.x</Source>
@@ -170,10 +170,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\dome.xnb</Output>
-      <Time>2015-04-13T20:55:18.9543959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6931173-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\terrain\dome_0.xml</Key>
-        <Value>2015-04-13T20:57:18.5889724-04:00</Value>
+        <Value>2015-04-14T00:29:18.513205-04:00</Value>
       </Dependency>
       <Request>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb</Request>
     </Item>
@@ -184,10 +184,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Fighter.xnb</Output>
-      <Time>2015-04-13T20:55:18.8763959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6571152-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Fighter_0.xml</Key>
-        <Value>2015-04-13T20:57:20.1300606-04:00</Value>
+        <Value>2015-04-14T00:29:18.7152166-04:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -197,10 +197,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Invader.xnb</Output>
-      <Time>2015-04-13T20:55:18.9699959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6581153-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Invader_0.xml</Key>
-        <Value>2015-04-13T20:57:20.1950643-04:00</Value>
+        <Value>2015-04-14T00:29:18.7562189-04:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -210,10 +210,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Voinian Spaceship.xnb</Output>
-      <Time>2015-04-13T20:55:19.2039959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6771163-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Voinian Spaceship_0.xml</Key>
-        <Value>2015-04-13T20:57:20.7820978-04:00</Value>
+        <Value>2015-04-14T00:29:19.0962384-04:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -223,10 +223,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\xwing.xnb</Output>
-      <Time>2015-04-13T20:55:19.9215959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6781164-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\xwing_0.xml</Key>
-        <Value>2015-04-13T20:57:20.9301063-04:00</Value>
+        <Value>2015-04-14T00:29:19.1822433-04:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -236,7 +236,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\GUNSHOT2.xnb</Output>
-      <Time>2015-04-13T20:55:19.0167959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6821166-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\Explosion.wav</Source>
@@ -245,7 +245,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\Explosion.xnb</Output>
-      <Time>2015-04-13T20:55:18.8919959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6821166-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\ric.wav</Source>
@@ -254,7 +254,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\ric.xnb</Output>
-      <Time>2015-04-13T20:55:18.8451959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6911171-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\alert.wav</Source>
@@ -263,7 +263,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\alert.xnb</Output>
-      <Time>2015-04-13T20:55:19.9371959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6821166-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\engine.wav</Source>
@@ -272,14 +272,14 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\engine.xnb</Output>
-      <Time>2015-04-13T20:55:20.0775959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6911171-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\dome.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\terrain\dome_0.xml</Output>
-      <Time>2015-04-13T20:55:18.9543959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6931173-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\cloudMap.jpg</Source>
@@ -295,35 +295,35 @@
       </Parameters>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb</Output>
-      <Time>2015-04-13T20:55:18.8919959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6921172-04:00</Time>
     </Item>
     <Item>
       <Source>ships\Tie-Fighter.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Fighter_0.xml</Output>
-      <Time>2015-04-13T20:55:18.8763959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6571152-04:00</Time>
     </Item>
     <Item>
       <Source>ships\Tie-Invader.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Invader_0.xml</Output>
-      <Time>2015-04-13T20:55:18.9699959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6581153-04:00</Time>
     </Item>
     <Item>
       <Source>ships\Voinian Spaceship.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Voinian Spaceship_0.xml</Output>
-      <Time>2015-04-13T20:55:19.2039959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6771163-04:00</Time>
     </Item>
     <Item>
       <Source>ships\xwing.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\xwing_0.xml</Output>
-      <Time>2015-04-13T20:55:19.9215959-04:00</Time>
+      <Time>2015-04-14T00:25:29.6781164-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -364,7 +364,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-01-31T12:40:49.0187294-05:00</Value>
+        <Value>2015-03-04T23:41:02.1437812-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>
