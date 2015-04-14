@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>effects.fx</Source>
+      <Name>effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb</Output>
+      <Time>2015-04-13T20:55:18.7983959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\Series4Effects.fx</Source>
+      <Name>terrain\Series4Effects</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\Series4Effects.xnb</Output>
+      <Time>2015-04-13T20:55:20.8263959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\ParticleEffect.fx</Source>
+      <Name>particle\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\ParticleEffect.xnb</Output>
+      <Time>2015-04-13T20:55:18.8763959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\bbEffect.fx</Source>
+      <Name>terrain\bbEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\bbEffect.xnb</Output>
+      <Time>2015-04-13T20:55:18.8607959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\bullet.jpg</Source>
+      <Name>particle\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\bullet.xnb</Output>
+      <Time>2015-04-13T20:55:18.8139959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\grass.dds</Source>
+      <Name>terrain\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\grass.xnb</Output>
+      <Time>2015-04-13T20:55:19.1883959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\rock.dds</Source>
+      <Name>terrain\rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\rock.xnb</Output>
+      <Time>2015-04-13T20:55:20.0931959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\sand.dds</Source>
+      <Name>terrain\sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\sand.xnb</Output>
+      <Time>2015-04-13T20:55:20.6079959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\snow.dds</Source>
+      <Name>terrain\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\snow.xnb</Output>
+      <Time>2015-04-13T20:55:20.8575959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\tree.dds</Source>
+      <Name>terrain\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\tree.xnb</Output>
+      <Time>2015-04-13T20:55:21.0759959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\waterbump.dds</Source>
+      <Name>terrain\waterbump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\waterbump.xnb</Output>
+      <Time>2015-04-13T20:55:19.1103959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\cloudMap.jpg</Source>
+      <Name>terrain\cloudMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap.xnb</Output>
+      <Time>2015-04-13T20:55:18.8919959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\treeMap.jpg</Source>
+      <Name>terrain\treeMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\treeMap.xnb</Output>
+      <Time>2015-04-13T20:55:19.0479959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\heightmap2.bmp</Source>
+      <Name>terrain\heightmap2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\heightmap2.xnb</Output>
+      <Time>2015-04-13T20:55:19.4379959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\explosion.png</Source>
+      <Name>particle\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\explosion.xnb</Output>
+      <Time>2015-04-13T20:55:18.8451959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>particle\smoke.png</Source>
+      <Name>particle\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\smoke.xnb</Output>
+      <Time>2015-04-13T20:55:18.9699959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2015-04-13T21:28:22.9876099-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb</Output>
+      <Time>2015-04-13T20:55:18.8139959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\dome.x</Source>
+      <Name>terrain\dome</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\dome.xnb</Output>
+      <Time>2015-04-13T20:55:18.9543959-04:00</Time>
+      <Dependency>
+        <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\terrain\dome_0.xml</Key>
+        <Value>2015-04-13T20:57:18.5889724-04:00</Value>
+      </Dependency>
+      <Request>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ships\Tie-Fighter.x</Source>
+      <Name>ships\Tie-Fighter</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Fighter.xnb</Output>
+      <Time>2015-04-13T20:55:18.8763959-04:00</Time>
+      <Dependency>
+        <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Fighter_0.xml</Key>
+        <Value>2015-04-13T20:57:20.1300606-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>ships\Tie-Invader.x</Source>
+      <Name>ships\Tie-Invader</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Invader.xnb</Output>
+      <Time>2015-04-13T20:55:18.9699959-04:00</Time>
+      <Dependency>
+        <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Invader_0.xml</Key>
+        <Value>2015-04-13T20:57:20.1950643-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>ships\Voinian Spaceship.x</Source>
+      <Name>ships\Voinian Spaceship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Voinian Spaceship.xnb</Output>
+      <Time>2015-04-13T20:55:19.2039959-04:00</Time>
+      <Dependency>
+        <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Voinian Spaceship_0.xml</Key>
+        <Value>2015-04-13T20:57:20.7820978-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>ships\xwing.x</Source>
+      <Name>ships\xwing</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\xwing.xnb</Output>
+      <Time>2015-04-13T20:55:19.9215959-04:00</Time>
+      <Dependency>
+        <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\xwing_0.xml</Key>
+        <Value>2015-04-13T20:57:20.9301063-04:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>sounds\GUNSHOT2.WAV</Source>
+      <Name>sounds\GUNSHOT2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\GUNSHOT2.xnb</Output>
+      <Time>2015-04-13T20:55:19.0167959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\Explosion.wav</Source>
+      <Name>sounds\Explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\Explosion.xnb</Output>
+      <Time>2015-04-13T20:55:18.8919959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\ric.wav</Source>
+      <Name>sounds\ric</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\ric.xnb</Output>
+      <Time>2015-04-13T20:55:18.8451959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\alert.wav</Source>
+      <Name>sounds\alert</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\alert.xnb</Output>
+      <Time>2015-04-13T20:55:19.9371959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\engine.wav</Source>
+      <Name>sounds\engine</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\engine.xnb</Output>
+      <Time>2015-04-13T20:55:20.0775959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\dome.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\terrain\dome_0.xml</Output>
+      <Time>2015-04-13T20:55:18.9543959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>terrain\cloudMap.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb</Output>
+      <Time>2015-04-13T20:55:18.8919959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ships\Tie-Fighter.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Fighter_0.xml</Output>
+      <Time>2015-04-13T20:55:18.8763959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ships\Tie-Invader.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Invader_0.xml</Output>
+      <Time>2015-04-13T20:55:18.9699959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ships\Voinian Spaceship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Voinian Spaceship_0.xml</Output>
+      <Time>2015-04-13T20:55:19.2039959-04:00</Time>
+    </Item>
+    <Item>
+      <Source>ships\xwing.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\xwing_0.xml</Output>
+      <Time>2015-04-13T20:55:19.9215959-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{6618678D-E5DC-4273-8B3C-2EB7909E1732}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\home\csc427\csc427project2\dsm-22361\DSM - starship simulator\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-31T12:40:49.0187294-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,13 @@
+The project uses "Particles 3D" engine that is distributed under Microsoft Permissive License (Ms-PL).
+http://xbox.create.msdn.com/en-US/education/catalog/sample/particle_3d
+
+Some frgments of source code comes from Riemer's 2D & 3D XNA Tutorials: 3D Series 2: Flightsim and 3D Series 4: Advanced Terrain.
+http://www.riemers.net
+
+3D Models were downloaded from:
+http://www.3dcadbrowser.com/
+http://www.riemers.net
+http://mathinfo.univ-reims.fr/image/PageBuilder.php?dir=dxMesh&show=XFiles&menu=base
+
+Sound effects were downloaded from:
+http://freesound.org/
