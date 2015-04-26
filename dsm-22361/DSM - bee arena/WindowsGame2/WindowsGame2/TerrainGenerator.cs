@@ -91,7 +91,7 @@ namespace WindowsGame2
         public Vector3 cameraPosition = new Vector3(130, 30, -50);
         float leftrightRot = MathHelper.PiOver2;
         float updownRot = -MathHelper.Pi / 10.0f;
-        const float rotationSpeed = 0.4f;
+        const float rotationSpeed = 0.5f;
         const float moveSpeed = 25.0f;
 
         Texture2D grassTexture;
@@ -108,8 +108,8 @@ namespace WindowsGame2
         VertexPositionTexture[] fullScreenVertices;
         VertexDeclaration fullScreenVertexDeclaration;
 
-        float waterHeight = 0.1f;
-        public float maxHeight = 80;
+        float waterHeight = 0.01f;
+        public float maxHeight = 160;
         RenderTarget2D refractionRenderTarget;
         Texture2D refractionMap;
         RenderTarget2D reflectionRenderTarget;
