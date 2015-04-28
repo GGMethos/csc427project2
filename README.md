@@ -12,4 +12,4 @@
 
 ### Experience the glory of Internet/LAN multiplayer with a scoring system and a fully functional server application that you can host for yourself.
 
-### Best of all, NO DRM! HACK THE PLANET!
+### This game is multiplayer only.
