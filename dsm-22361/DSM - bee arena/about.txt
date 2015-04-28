@@ -9,5 +9,4 @@ http://www.3dcadbrowser.com/
 http://www.riemers.net
 http://mathinfo.univ-reims.fr/image/PageBuilder.php?dir=dxMesh&show=XFiles&menu=base
 
-Sound effects were downloaded from:
-http://freesound.org/
+Sound effects were our work.

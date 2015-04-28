@@ -15,13 +15,13 @@ using System.Runtime.CompilerServices;
 using System.Collections;
 using WindowsGame2;
 using Particle3DSample;
-
+//song is not needed
 
 namespace Series3D2
 {
     public class Game1 : Microsoft.Xna.Framework.Game
     {
-        
+        //variables
         enum CollisionType { None, Building, Boundary, Target }
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
@@ -88,6 +88,7 @@ namespace Series3D2
         Random random = null;
         bool soundOn = true;
 
+//self-explanatory
         private void playAlert()
         {
             if (!soundOn) return;
@@ -163,7 +164,7 @@ namespace Series3D2
                 timeToNextProjectile += TimeSpan.FromSeconds(1);
             }
         }
-
+//update function that calls an update function; inception
         /// <summary>
         /// Helper for updating the list of active projectiles.
         /// </summary>
@@ -185,7 +186,7 @@ namespace Series3D2
                 }
             }
         }
-
+//now we actually start writing some game code
         void NewRandormPosition()
         {
             actualBullets = maxBullets;
@@ -418,6 +419,8 @@ namespace Series3D2
             NewRandormPosition();
         }
         public byte shipModel = 0;
+
+//test models
         private void LoadModels()
         {
             Models = new ModelDescription[4];
