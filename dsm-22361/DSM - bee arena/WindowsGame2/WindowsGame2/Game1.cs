@@ -444,6 +444,11 @@ namespace Series3D2
             Models[3].RotationY = (float)Math.PI;
             Models[3].Scale = 0.07f;
             Models[3].CameraPosition = new Vector3(0, 0.2f, 1.6f);
+            // add models here with values
+
+
+
+
 
             maxModels = Models.Length;
             /*
@@ -628,6 +633,9 @@ namespace Series3D2
                 graphics.IsFullScreen = !graphics.IsFullScreen;
                 graphics.ApplyChanges();
             }
+            //if (keys.IsKeyDown(Keys.SHIFT))
+           // {
+           // }
             if (keys.IsKeyDown(Keys.Add))
                 if (gameSpeed < maxSpeed)
                     gameSpeed += 0.1f;

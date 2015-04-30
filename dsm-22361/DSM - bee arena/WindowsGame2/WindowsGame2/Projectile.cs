@@ -26,11 +26,11 @@ namespace Particle3DSample
         #region Constants
 
         const float trailParticlesPerSecond = 200;
-        const int numExplosionParticles = 30;
-        const int numExplosionSmokeParticles = 50;
+        const int numExplosionParticles = 300;
+        const int numExplosionSmokeParticles = 1000;
         const float projectileLifespan = 0;//1.5f;
         const float sidewaysVelocityRange = 60;
-        const float verticalVelocityRange = 40;
+        const float verticalVelocityRange = 100;
         const float gravity = 15;
 
         #endregion
@@ -84,7 +84,7 @@ namespace Particle3DSample
             // Simple projectile physics.
             position += velocity * elapsedTime;
             velocity.Y -= elapsedTime * gravity;
-            age += elapsedTime;
+            age += ((elapsedTime)*2);
 
             // Update the particle emitter, which will create our particle trail.
             trailEmitter.Update(gameTime, position);

@@ -5,6 +5,7 @@ using System.Net.Sockets;
 using System.Threading;
 namespace Series3D2
 {
+    //class for MP client (first thing player sees on game launch)
     public class TCPClient
     {
         // delegate declaration
