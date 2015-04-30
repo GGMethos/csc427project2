@@ -36,9 +36,9 @@ namespace Server
             // 
             // ClientsList
             // 
-            this.ClientsList.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.ClientsList.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.ClientsList.FormattingEnabled = true;
             this.ClientsList.Location = new System.Drawing.Point(6, 19);
             this.ClientsList.Name = "ClientsList";
@@ -47,24 +47,24 @@ namespace Server
             // 
             // groupBox1
             // 
-            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-                        | System.Windows.Forms.AnchorStyles.Left)
-                        | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.groupBox1.Controls.Add(this.ClientsList);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(382, 313);
             this.groupBox1.TabIndex = 1;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Pilots list";
+            this.groupBox1.Text = "Player List";
             // 
             // buttonKick
             // 
             this.buttonKick.Location = new System.Drawing.Point(18, 331);
             this.buttonKick.Name = "buttonKick";
-            this.buttonKick.Size = new System.Drawing.Size(75, 23);
+            this.buttonKick.Size = new System.Drawing.Size(362, 23);
             this.buttonKick.TabIndex = 1;
-            this.buttonKick.Text = "Kick out!";
+            this.buttonKick.Text = "Boot From Game";
             this.buttonKick.UseVisualStyleBackColor = true;
             this.buttonKick.Click += new System.EventHandler(this.buttonKick_Click);
             // 
@@ -77,7 +77,7 @@ namespace Server
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Form1";
-            this.Text = "Deadly Sky Masters";
+            this.Text = "Beeautiful 2: Deadly Sky Masters";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
