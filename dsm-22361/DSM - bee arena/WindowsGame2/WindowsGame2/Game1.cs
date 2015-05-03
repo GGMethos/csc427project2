@@ -256,7 +256,7 @@ namespace Series3D2
             graphics.PreferredBackBufferHeight = 1080;
             graphics.IsFullScreen = true;
             graphics.ApplyChanges();
-            Window.Title = "Deadly Sky Masters";
+            Window.Title = "Beautiful 2: Deadly Sky Masters";
             random = new Random();
             lightDirection.Normalize();
 
@@ -388,7 +388,7 @@ namespace Series3D2
 	        catch (Exception _Exception)
 	        {
 	            // Error
-	            Console.WriteLine("Exception caught in process: {0}", _Exception.ToString());
+	            Console.WriteLine("Error: Exception caught in process: {0}", _Exception.ToString());
 	        }
 	 
 	    // Error occured, return null
@@ -423,6 +423,9 @@ namespace Series3D2
 //test models
         private void LoadModels()
         {
+
+
+            //DAN REPLACE THIS SOON!
             Models = new ModelDescription[4];
             LoadModel("Ships/xwing", 0);
             Models[0].RotationY = (float)Math.PI;
