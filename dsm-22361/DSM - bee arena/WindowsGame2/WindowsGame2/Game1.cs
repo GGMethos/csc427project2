@@ -831,15 +831,15 @@ namespace Series3D2
             spriteBatch.DrawString(font, "Sting Energy: " + actualBullets + "/" + maxBullets, new Vector2(10, 10), Color.Red);
             
             Color color = new Color(xwingColor);
-            spriteBatch.DrawString(font, "Frag Count: " + frags, new Vector2(10, 65), Color.Orange);
-            lock (Enemies.SyncRoot)
-            {
-                for (int a = 0; a < Enemies.Count; a++)
-                {
-                    color = new Color(((XwingPosition)Enemies[a]).color);
-                    spriteBatch.DrawString(font, "Frag Count: " + ((XwingPosition)Enemies[a]).frags, new Vector2(10, 40 + a * 15), color);
-                }
-            }
+            spriteBatch.DrawString(font, "Frag Count: " + frags, new Vector2(10, 65), Color.White);
+            //lock (Enemies.SyncRoot)
+            //{
+            //    for (int a = 0; a < Enemies.Count; a++)
+            //    {
+            //        color = new Color(((XwingPosition)Enemies[a]).color);
+            //        spriteBatch.DrawString(font, "Frag Count: " + ((XwingPosition)Enemies[a]).frags, new Vector2(10, 40 + a * 15), color);
+            //    }
+            //}
             //spriteBatch.Draw(background, new Vector2(640-background.Width-10, 480-background.Height-10), Color.White);
             spriteBatch.End();
 
