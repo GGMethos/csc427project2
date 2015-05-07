@@ -27,11 +27,11 @@ namespace Particle3DSample
 
         const float trailParticlesPerSecond = 200;
         const int numExplosionParticles = 300;
-        const int numExplosionSmokeParticles = 100;
+        const int numExplosionSmokeParticles = 1000;
         const float projectileLifespan = 0;//1.5f;
         const float sidewaysVelocityRange = 60;
         const float verticalVelocityRange = 100;
-        const float gravity = 3;
+        const float gravity = 15;
 
         #endregion
 

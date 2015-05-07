@@ -30,11 +30,11 @@ namespace Particle3DSample
         {
             settings.TextureName = "particle/smoke";
 
-            settings.MaxParticles = 300;
+            settings.MaxParticles = 1000;
 
             settings.Duration = TimeSpan.FromSeconds(3);
 
-            settings.DurationRandomness = 0.5f;
+            settings.DurationRandomness = 1.5f;
 
             settings.EmitterVelocitySensitivity = 0.1f;
 
@@ -51,10 +51,10 @@ namespace Particle3DSample
             settings.MaxRotateSpeed = 4;
 
             settings.MinStartSize = 1;
-            settings.MaxStartSize = 1;
+            settings.MaxStartSize = 3;
 
-            settings.MinEndSize = 2;
-            settings.MaxEndSize = 3;
+            settings.MinEndSize = 4;
+            settings.MaxEndSize = 11;
         }
     }
 }
