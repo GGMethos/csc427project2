@@ -239,6 +239,13 @@ namespace Series3D2
 
         public Game1(String ip, int port, Vector4 color,int uid, float fieldOfView,byte shipModel, bool randomPosition)
         {
+
+
+
+
+
+            //This means that the default server and port will be 127.0.0.1 and 9000 respectively.
+            //The port number needs to be 9000 for the TCP/IP Client. The default setting in the server client in 9000 and most people won't change it.
             this.ip = ip;
             this.port = port;
             this.uid = uid;
@@ -252,6 +259,10 @@ namespace Series3D2
 
         protected override void Initialize()
         {
+
+            //Resolution
+            //We used a static resolution again like in Beeautiful One, only this time the game is always forced to full screen because the width and height of the screen doesn't have nearly as big of an impact on the game like it did in Beeautiful One.
+            //not sure if XNA supports 4K but wouldn't be able to tell since I don't have a 4K monitor
             graphics.PreferredBackBufferWidth = 1920;
             graphics.PreferredBackBufferHeight = 1080;
             graphics.IsFullScreen = true;
@@ -344,7 +355,7 @@ namespace Series3D2
             }
             catch { }
         }
-
+        //this is important...
         public void SendDataToServer()
         {
             XwingPosition xp = new XwingPosition();
@@ -358,9 +369,10 @@ namespace Series3D2
             byte[] data = XwingPosition.ToByteArray(xp);
             t1.SendData(data);
         }
-
+        //this too
         private byte[] ToByteArray(object source)
         {
+            //this actually gets called each time too
             var formatter = new BinaryFormatter();
             using (var stream = new MemoryStream())
             {
@@ -404,11 +416,15 @@ namespace Series3D2
             effect = Content.Load<Effect>("effects");
             LoadModels();
             bulletTexture = Content.Load<Texture2D>("particle/bullet");
-            
+            //an old texture we don't use anymore: "background"
             background = Content.Load<Texture2D>("background");
             font = Content.Load<SpriteFont>("Font");
-            tg.LoadContent(this);
 
+            //default font style is actually in the font.cs
+            //it should be changed. this font is not very appealing
+
+            tg.LoadContent(this);
+            //sounds (NO MUSIC)
             gunshot = Content.Load<SoundEffect>("sounds/GUNSHOT2");
             explosion = Content.Load<SoundEffect>("sounds/explosion");
             bullet = Content.Load<SoundEffect>("sounds/ric");
@@ -419,7 +435,7 @@ namespace Series3D2
             NewRandormPosition();
         }
         public byte shipModel = 0;
-
+        //model ship 
 //test models
         private void LoadModels()
         {

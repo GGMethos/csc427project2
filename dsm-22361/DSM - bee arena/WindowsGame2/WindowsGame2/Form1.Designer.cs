@@ -170,7 +170,7 @@
             this.Controls.Add(this.textBoxPort);
             this.Controls.Add(this.textBoxIP);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Name = "Form1";
+            this.Name = "Form 1";
             this.Text = "Deadly Sky Masters";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
