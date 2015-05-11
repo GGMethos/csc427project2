@@ -1,3 +1,5 @@
+![alt text](https://static.squarespace.com/static/52cde890e4b099b1b5619033/52dda0a6e4b0c47be3dc38d5/52dda0a7e4b0c47be3dc3a60/1295242854024/1000w/Paper%20Tiger%20sign.JPG "Java Tigers")
+
 # Beeautiful 2: Deadly Sky Masters
 
 ## After Jerry defeated Satan, the curse was not lifted. Jerry remained a bee. Only now he only turned into a bee in the day time. At night he was still Jerry Seinfeld.
