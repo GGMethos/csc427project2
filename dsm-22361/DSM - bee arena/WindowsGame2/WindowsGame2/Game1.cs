@@ -757,7 +757,8 @@ namespace Series3D2
                     Bullet currentBullet = (Bullet)bulletList[i];
                     if (currentBullet.played == false && currentBullet.ownerUid != uid)
                         currentBullet.played = playBullet(currentBullet.position);
-                    MoveBulletForward(ref currentBullet.position, currentBullet.rotation, moveSpeed);
+                    MoveBulletForward(ref currentBullet.position, currentBullet.rotation, moveSpeed-1);
+                    MoveBulletForward(ref currentBullet.position, currentBullet.rotation, moveSpeed+1);
                     bulletList[i] = currentBullet;
 
                     BoundingSphere bulletSphere = new BoundingSphere(currentBullet.position, bulletRadius);

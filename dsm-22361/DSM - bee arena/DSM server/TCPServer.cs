@@ -9,6 +9,9 @@ namespace Server
 {
     class TCPServer
     {
+
+        //advanced TCP Server
+        //(needs TCP)
         // delegate declaration
         public delegate void NewConnection(object sender, HandleClinet client);
 
@@ -92,6 +95,8 @@ namespace Server
         public void StopServer()
         {
             stopServer = true;
+
+            //to handle client
             HandleClinet helpClient;
             for (int a = 0; a < allClients.Count; a++)
             {
