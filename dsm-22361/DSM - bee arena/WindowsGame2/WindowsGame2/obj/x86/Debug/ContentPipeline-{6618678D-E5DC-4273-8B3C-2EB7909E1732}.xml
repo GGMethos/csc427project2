@@ -8,7 +8,7 @@
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\effects.xnb</Output>
-      <Time>2015-04-24T21:18:57.1443126-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\Series4Effects.fx</Source>
@@ -17,7 +17,7 @@
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\Series4Effects.xnb</Output>
-      <Time>2015-04-24T21:18:57.0783088-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>particle\ParticleEffect.fx</Source>
@@ -26,7 +26,7 @@
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\ParticleEffect.xnb</Output>
-      <Time>2015-04-24T21:18:57.1433125-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\bbEffect.fx</Source>
@@ -35,7 +35,7 @@
       <Processor>EffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\bbEffect.xnb</Output>
-      <Time>2015-04-24T21:18:57.0783088-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>particle\bullet.jpg</Source>
@@ -44,7 +44,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\bullet.xnb</Output>
-      <Time>2015-04-26T14:04:34.5597958-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\grass.dds</Source>
@@ -53,7 +53,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\grass.xnb</Output>
-      <Time>2015-04-24T21:18:57.0693083-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\rock.dds</Source>
@@ -62,7 +62,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\rock.xnb</Output>
-      <Time>2015-04-24T21:18:57.0533074-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\sand.dds</Source>
@@ -71,7 +71,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\sand.xnb</Output>
-      <Time>2015-04-24T21:18:57.0383065-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\snow.dds</Source>
@@ -80,7 +80,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\snow.xnb</Output>
-      <Time>2015-04-24T21:18:57.0223056-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\tree.dds</Source>
@@ -89,7 +89,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\tree.xnb</Output>
-      <Time>2015-04-24T21:18:57.0143052-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\waterbump.dds</Source>
@@ -98,7 +98,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\waterbump.xnb</Output>
-      <Time>2015-04-24T21:18:57.0103049-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\cloudMap.jpg</Source>
@@ -107,7 +107,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap.xnb</Output>
-      <Time>2015-04-24T21:18:57.0773088-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\treeMap.jpg</Source>
@@ -116,7 +116,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\treeMap.xnb</Output>
-      <Time>2015-04-24T21:18:57.0123051-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\heightmap2.bmp</Source>
@@ -125,7 +125,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\heightmap2.xnb</Output>
-      <Time>2015-04-24T21:18:57.0593077-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>particle\explosion.png</Source>
@@ -134,7 +134,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\explosion.xnb</Output>
-      <Time>2015-05-05T12:56:09.4593491-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>particle\smoke.png</Source>
@@ -143,7 +143,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\particle\smoke.xnb</Output>
-      <Time>2015-04-24T21:18:57.1403124-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>background.png</Source>
@@ -152,7 +152,7 @@
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\background.xnb</Output>
-      <Time>2015-04-24T21:18:57.1453127-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>Font.spritefont</Source>
@@ -161,7 +161,7 @@
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\Font.xnb</Output>
-      <Time>2015-05-17T12:11:25.4176273-04:00</Time>
+      <Time>2015-03-06T19:33:56.1300512-05:00</Time>
     </Item>
     <Item>
       <Source>terrain\dome.x</Source>
@@ -170,10 +170,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\dome.xnb</Output>
-      <Time>2015-04-24T21:18:57.0763087-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\terrain\dome_0.xml</Key>
-        <Value>2015-05-19T21:10:30.2994594-04:00</Value>
+        <Value>2015-05-11T20:42:56.7521923-04:00</Value>
       </Dependency>
       <Request>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb</Request>
     </Item>
@@ -184,10 +184,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Fighter.xnb</Output>
-      <Time>2015-05-19T21:03:51.1886315-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Fighter_0.xml</Key>
-        <Value>2015-05-19T21:11:43.1916286-04:00</Value>
+        <Value>2015-05-11T20:42:57.1552154-04:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -197,10 +197,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Tie-Invader.xnb</Output>
-      <Time>2015-04-24T21:18:57.1353121-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Invader_0.xml</Key>
-        <Value>2015-05-19T21:10:30.5584742-04:00</Value>
+        <Value>2015-05-11T20:42:57.2602214-04:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -210,10 +210,10 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\Voinian Spaceship.xnb</Output>
-      <Time>2015-04-24T21:18:57.1213113-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Voinian Spaceship_0.xml</Key>
-        <Value>2015-05-19T21:10:30.9034939-04:00</Value>
+        <Value>2015-05-11T20:42:57.9232593-04:00</Value>
       </Dependency>
     </Item>
     <Item>
@@ -223,13 +223,11 @@
       <Processor>ModelProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\xwing.xnb</Output>
-      <Time>2015-05-19T21:03:51.1736307-04:00</Time>
+      <Time>2015-04-13T20:55:19.9215959-04:00</Time>
       <Dependency>
         <Key>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\xwing_0.xml</Key>
-        <Value>2015-05-19T21:11:43.7536607-04:00</Value>
+        <Value>2015-05-11T20:45:23.2735729-04:00</Value>
       </Dependency>
-      <Request>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\BeeTextures\^328D4C8D07E17A8C5320B254EC79BAC_0.xnb</Request>
-      <Request>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\BeeTextures\^D0AC67B8FC9C5DC37626233F120D501_0.xnb</Request>
     </Item>
     <Item>
       <Source>sounds\GUNSHOT2.WAV</Source>
@@ -238,7 +236,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\GUNSHOT2.xnb</Output>
-      <Time>2015-04-26T13:57:50.6705084-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\Explosion.wav</Source>
@@ -247,7 +245,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\Explosion.xnb</Output>
-      <Time>2015-03-14T14:28:02.356603-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\ric.wav</Source>
@@ -256,7 +254,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\ric.xnb</Output>
-      <Time>2015-04-24T21:18:57.0793089-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\alert.wav</Source>
@@ -265,7 +263,7 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\alert.xnb</Output>
-      <Time>2015-04-24T21:18:57.0943097-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>sounds\engine.wav</Source>
@@ -274,14 +272,14 @@
       <Processor>SoundEffectProcessor</Processor>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\sounds\engine.xnb</Output>
-      <Time>2015-04-26T14:43:50.4914817-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\dome.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\terrain\dome_0.xml</Output>
-      <Time>2015-04-24T21:18:57.0763087-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>terrain\cloudMap.jpg</Source>
@@ -297,67 +295,35 @@
       </Parameters>
       <Options>None</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\terrain\cloudMap_0.xnb</Output>
-      <Time>2015-04-24T21:18:57.0773088-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>ships\Tie-Fighter.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Fighter_0.xml</Output>
-      <Time>2015-05-19T21:03:51.1886315-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>ships\Tie-Invader.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Tie-Invader_0.xml</Output>
-      <Time>2015-04-24T21:18:57.1353121-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>ships\Voinian Spaceship.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\Voinian Spaceship_0.xml</Output>
-      <Time>2015-04-24T21:18:57.1213113-04:00</Time>
+      <Time>2015-05-04T20:42:02-04:00</Time>
     </Item>
     <Item>
       <Source>ships\xwing.x</Source>
       <Importer>XImporter</Importer>
       <Options>IntermediateFile, DontCacheImportedData</Options>
       <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\obj\x86\Debug\ships\xwing_0.xml</Output>
-      <Time>2015-05-19T21:03:51.1736307-04:00</Time>
-    </Item>
-    <Item>
-      <Source>ships\BeeTextures\^328D4C8D07E17A8C5320B254EC79BAC9BE319B25BBF8286176^pimgpsh_thumbnail_win_distr.jpg</Source>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
-        <Data Key="GenerateMipmaps" Type="bool">true</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\BeeTextures\^328D4C8D07E17A8C5320B254EC79BAC_0.xnb</Output>
-      <Time>2015-05-19T21:03:51.109627-04:00</Time>
-    </Item>
-    <Item>
-      <Source>ships\BeeTextures\^D0AC67B8FC9C5DC37626233F120D50171658AB25E4D250EF10^pimgpsh_thumbnail_win_distr.jpg</Source>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Parameters>
-        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
-        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
-        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
-        <Data Key="GenerateMipmaps" Type="bool">true</Data>
-        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
-        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
-      </Parameters>
-      <Options>None</Options>
-      <Output>C:\home\csc427\csc427project2\dsm-22361\DSM - bee arena\WindowsGame2\WindowsGame2\bin\x86\Debug\Content\ships\BeeTextures\^D0AC67B8FC9C5DC37626233F120D501_0.xnb</Output>
-      <Time>2015-05-19T21:03:51.109627-04:00</Time>
+      <Time>2015-04-13T20:55:19.9215959-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -398,7 +364,7 @@
       </Assembly>
       <Assembly>
         <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2015-03-04T23:41:02.1437812-05:00</Value>
+        <Value>2015-01-31T12:40:49.0187294-05:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

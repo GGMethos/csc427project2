@@ -27,5 +27,3 @@ Content\sounds\ric.xnb
 Content\sounds\alert.xnb
 Content\sounds\engine.xnb
 Content\terrain\cloudMap_0.xnb
-Content\ships\BeeTextures\^328D4C8D07E17A8C5320B254EC79BAC_0.xnb
-Content\ships\BeeTextures\^D0AC67B8FC9C5DC37626233F120D501_0.xnb
