@@ -67,7 +67,7 @@ namespace Server
         TcpListener serverSocket = null;
         public void StartServer()
         {
-            serverSocket = new TcpListener(port);
+            serverSocket = new TcpListener(port); // this is deprecated as of .NET 4.6 but I do not care. the new standard implementation of this is pointless and this i will keep the current one
             TcpClient clientSocket = null;
             int counter = 0;
 

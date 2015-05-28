@@ -61,6 +61,7 @@ namespace Series3D2
                 sizeof(byte)];
             int actualPosition = 0;
             bool reverse = BitConverter.IsLittleEndian;
+            uint positionNo1 = 0;
             //position
             ConverAndAddToArray(outputData, Data.position.X, ref actualPosition, reverse);
             ConverAndAddToArray(outputData, Data.position.Y, ref actualPosition, reverse);
